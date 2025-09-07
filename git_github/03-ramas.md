@@ -1,0 +1,26 @@
+# 03. Ramas y Flujos de Trabajo
+
+## ?? ¿Qué es una rama?
+Una rama es una línea de desarrollo independiente que permite trabajar en nuevas funcionalidades sin afectar la rama principal.
+
+## ??? Comandos de ramas
+- **Crear rama**: `git branch nueva-rama`
+- **Cambiar de rama**: `git checkout nueva-rama`
+- **Crear y cambiar**: `git checkout -b feature/login`
+- **Listar ramas**: `git branch`
+
+## ?? Flujos de trabajo colaborativos
+- **Git Flow**: Estructura de ramas para desarrollo, releases y hotfixes
+- **GitHub Flow**: Ramas feature, pull requests y merge a main
+
+## ?? Pull Requests y Revisiones
+En GitHub, los cambios se integran mediante pull requests, permitiendo revisión y discusión antes de mezclar ramas.
+
+## ?? Ejercicio Práctico
+1. Crea una rama para una nueva funcionalidad
+2. Haz cambios y realiza commits en esa rama
+3. Fusiona la rama con main usando `git merge`
+4. Simula un pull request en GitHub
+
+---
+**Anterior**: [02. Repositorios Remotos](./02-remotos.md) | **Siguiente**: [04. Resolución de Conflictos](./04-conflictos.md)

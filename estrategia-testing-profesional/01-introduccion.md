@@ -1,3 +1,9 @@
+# Introducción a Estrategia de Testing Profesional
+
+Este curso está diseñado para enseñarte las mejores prácticas y estrategias profesionales de testing en desarrollo de software. Aprenderás sobre tipos de pruebas, automatización, herramientas y cómo implementar una cultura de calidad en tus proyectos.
+
+---
+
 # 01. Introducción al Testing Profesional
 
 ## 🎯 Contexto y motivación
