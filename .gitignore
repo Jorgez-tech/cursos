@@ -1,0 +1,33 @@
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode-test
+*.log
+*.vs/
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+# General system/editor files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
+
+# Backup and temp files
+*.bak
+*.tmp
+
+# Markdown preview cache (if any)
+.markdown-preview/
