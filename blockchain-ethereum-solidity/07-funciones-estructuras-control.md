@@ -1,4 +1,4 @@
-# 05. Funciones y Estructuras de Control en Solidity
+# 07. Funciones y Estructuras de Control en Solidity
 
 ## 🧩 Funciones en Solidity
 
@@ -51,4 +51,4 @@ contract ControlFlujo {
 
 ---
 
-**Anterior**: [04. Variables, Tipos y Operadores](./04-variables-tipos-operadores.md) | **Siguiente**: [06. Seguridad Básica en Smart Contracts](./06-seguridad-basica-smart-contracts.md)
+**Anterior**: [06. Variables, Tipos y Operadores](./06-variables-tipos-operadores.md) | **Siguiente**: [08. Práctica Guiada - Primer dApp](./08-practica.md) | **Inicio**: [README](../README.md)

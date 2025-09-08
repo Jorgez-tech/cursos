@@ -1,4 +1,4 @@
-# 13. Seguridad Avanzada en Smart Contracts
+# 17. Seguridad Avanzada en Smart Contracts
 
 ## 🛡️ Amenazas avanzadas y mitigaciones
 
@@ -45,4 +45,4 @@ contract ConsultaOracle {
 
 ---
 
-**Anterior**: [12. Gas y Optimización](./12-gas-optimizacion.md) | **Siguiente**: [14. Patrones y Arquitectura de Proyectos](./14-patrones-arquitectura-proyectos.md)
+**Anterior**: [16. Gas y Optimización](./16-gas-optimizacion.md) | **Siguiente**: [18. Documentación y Escalabilidad](./18-documentacion.md) | **Inicio**: [README](../README.md)

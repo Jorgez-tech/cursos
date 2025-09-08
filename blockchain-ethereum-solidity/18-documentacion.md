@@ -1,4 +1,4 @@
-# 06. Documentación y Escalabilidad
+# 18. Documentación y Escalabilidad
 
 ## 📚 Documentación Técnica de Contratos
 
@@ -533,4 +533,4 @@ module.exports = VotingMetrics;
 
 ---
 
-**Anterior**: [05. Integración](./05-integracion.md) | **Siguiente**: [07. Evaluación](./07-evaluacion.md) | **Inicio**: [README](../README.md)
+**Anterior**: [17. Seguridad Avanzada](./17-seguridad-avanzada-smart-contracts.md) | **Siguiente**: [19. Patrones de Arquitectura](./19-patrones-arquitectura-proyectos.md) | **Inicio**: [README](../README.md)

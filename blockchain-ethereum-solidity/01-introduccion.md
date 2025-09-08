@@ -68,4 +68,4 @@ contract HolaBlockchain {
 
 ---
 
-**Siguiente**: [02. Ethereum y Smart Contracts](./02-ethereum-smart-contracts.md) | **Inicio**: [README](../README.md)
+**Siguiente**: [02. Conceptos Fundamentales de Blockchain](./02-conceptos.md) | **Inicio**: [README](../README.md)

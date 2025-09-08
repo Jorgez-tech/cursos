@@ -1,4 +1,4 @@
-# 06. Seguridad Básica en Smart Contracts
+# 11. Seguridad Básica en Smart Contracts
 
 ## 🔒 Principios de Seguridad en Solidity
 
@@ -45,4 +45,4 @@ contract SeguroReentrancy {
 
 ---
 
-**Anterior**: [05. Funciones y Estructuras de Control](./05-funciones-estructuras-control.md) | **Siguiente**: [07. Herramientas de Desarrollo](./07-herramientas-desarrollo.md)
+**Anterior**: [10. Desarrollo y Pruebas de Smart Contracts](./10-desarrollo-pruebas-smart-contracts.md) | **Siguiente**: [12. Integración y Seguridad Avanzada](./12-integracion.md) | **Inicio**: [README](../README.md)

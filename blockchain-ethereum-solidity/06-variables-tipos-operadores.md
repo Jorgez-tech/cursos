@@ -1,4 +1,4 @@
-# 04. Variables, Tipos y Operadores en Solidity
+# 06. Variables, Tipos y Operadores en Solidity
 
 ## 🌟 Tipos de Variables y Datos
 
@@ -45,4 +45,4 @@ contract Operadores {
 
 ---
 
-**Anterior**: [03. Fundamentos de Solidity](./03-fundamentos-solidity.md) | **Siguiente**: [05. Funciones y Estructuras de Control](./05-funciones-estructuras-control.md)
+**Anterior**: [05. Setup y Configuración del Entorno](./05-setup.md) | **Siguiente**: [07. Funciones y Estructuras de Control](./07-funciones-estructuras-control.md) | **Inicio**: [README](../README.md)

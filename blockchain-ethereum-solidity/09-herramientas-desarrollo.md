@@ -1,4 +1,4 @@
-# 07. Herramientas de Desarrollo para Blockchain y Solidity
+# 09. Herramientas de Desarrollo para Blockchain y Solidity
 
 ## 🛠️ Principales Herramientas
 
@@ -32,4 +32,4 @@ npx hardhat test
 
 ---
 
-**Anterior**: [06. Seguridad Básica en Smart Contracts](./06-seguridad-basica-smart-contracts.md) | **Siguiente**: [08. Desarrollo y Pruebas de Smart Contracts](./08-desarrollo-pruebas-smart-contracts.md)
+**Anterior**: [08. Práctica Guiada - Primer dApp](./08-practica.md) | **Siguiente**: [10. Desarrollo y Pruebas de Smart Contracts](./10-desarrollo-pruebas-smart-contracts.md) | **Inicio**: [README](../README.md)

@@ -1,4 +1,4 @@
-# 03. Fundamentos de Solidity
+# 04. Fundamentos de Solidity
 
 ## 🌟 Historia y Conceptos Clave
 
@@ -66,4 +66,4 @@ contract Contador {
 
 ---
 
-**Anterior**: [02. Ethereum y Smart Contracts](./02-ethereum-smart-contracts.md) | **Siguiente**: [04. Variables, Tipos y Operadores](./04-variables-tipos-operadores.md)
+**Anterior**: [03. Ethereum y Contratos Inteligentes](./03-ethereum-smart-contracts.md) | **Siguiente**: [05. Setup y Configuración del Entorno](./05-setup.md) | **Inicio**: [README](../README.md)

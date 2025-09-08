@@ -1,4 +1,4 @@
-# 11. Descentralización y DApps
+# 15. Descentralización y DApps
 
 ## 🌐 ¿Qué es una DApp?
 
@@ -32,4 +32,4 @@ graph TD;
 
 ---
 
-**Anterior**: [10. Tokens y Estándares](./10-tokens-estandares.md) | **Siguiente**: [12. Gas y Optimización](./12-gas-optimizacion.md)
+**Anterior**: [14. Tokens y Estándares ERC](./14-tokens-estandares.md) | **Siguiente**: [16. Gas y Optimización](./16-gas-optimizacion.md) | **Inicio**: [README](../README.md)
