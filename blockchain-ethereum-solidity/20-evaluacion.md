@@ -537,4 +537,4 @@ Tras completar exitosamente la evaluación, recibirás:
 
 **¡Mucho éxito en tu proyecto final! 🚀**
 
-**Anterior**: [06. Documentación](./06-documentacion.md) | **Inicio**: [README](../README.md)
+**Anterior**: [19. Patrones de Arquitectura](./19-patrones-arquitectura-proyectos.md) | **Siguiente**: [21. Tendencias y Futuro de Web3](./21-tendencias-futuro-web3.md) | **Inicio**: [README](../README.md)

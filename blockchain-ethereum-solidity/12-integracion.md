@@ -283,4 +283,4 @@ export function useContract(contractAddress, abi) {
 
 ---
 
-**Anterior**: [04. Práctica](./04-practica.md) | **Siguiente**: [06. Documentación](./06-documentacion.md) | **Inicio**: [README](../README.md)
+**Anterior**: [11. Seguridad Básica en Smart Contracts](./11-seguridad-basica-smart-contracts.md) | **Siguiente**: [13. Interacción con Blockchain](./13-interaccion-blockchain.md) | **Inicio**: [README](../README.md)

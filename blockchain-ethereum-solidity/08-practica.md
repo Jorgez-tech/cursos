@@ -269,4 +269,4 @@ npx hardhat verify --network goerli DIRECCION_DEL_CONTRATO
 
 ---
 
-**Anterior**: [03. Setup](./03-setup.md) | **Siguiente**: [05. Funciones y Estructuras de Control](./05-funciones-estructuras-control.md) | **Inicio**: [README](../README.md)
+**Anterior**: [07. Funciones y Estructuras de Control](./07-funciones-estructuras-control.md) | **Siguiente**: [09. Herramientas de Desarrollo](./09-herramientas-desarrollo.md) | **Inicio**: [README](../README.md)

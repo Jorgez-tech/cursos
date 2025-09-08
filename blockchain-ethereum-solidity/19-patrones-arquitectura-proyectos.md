@@ -42,4 +42,4 @@ contract Ownable {
 
 ---
 
-**Anterior**: [13. Seguridad Avanzada en Smart Contracts](./13-seguridad-avanzada-smart-contracts.md) | **Siguiente**: [15. Tendencias y Futuro de Web3](./15-tendencias-futuro-web3.md)
+**Anterior**: [18. Documentación y Escalabilidad](./18-documentacion.md) | **Siguiente**: [20. Evaluación Final y Proyecto DAO](./20-evaluacion.md) | **Inicio**: [README](../README.md)

@@ -69,4 +69,4 @@ contract SimpleStorage {
 
 ---
 
-**Anterior**: [01. Introducción](./01-introduccion.md) | **Siguiente**: [03. Fundamentos de Solidity](./03-fundamentos-solidity.md)
+**Anterior**: [02. Conceptos Fundamentales de Blockchain](./02-conceptos.md) | **Siguiente**: [04. Fundamentos de Solidity](./04-fundamentos-solidity.md) | **Inicio**: [README](../README.md)

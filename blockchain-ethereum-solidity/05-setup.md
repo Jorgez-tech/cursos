@@ -232,4 +232,4 @@ solidity: "0.8.19"
 
 ---
 
-**Anterior**: [02. Conceptos](./02-conceptos.md) | **Siguiente**: [04. Variables, Tipos y Operadores](./04-variables-tipos-operadores.md) | **Inicio**: [README](../README.md)
+**Anterior**: [04. Fundamentos de Solidity](./04-fundamentos-solidity.md) | **Siguiente**: [06. Variables, Tipos y Operadores](./06-variables-tipos-operadores.md) | **Inicio**: [README](../README.md)

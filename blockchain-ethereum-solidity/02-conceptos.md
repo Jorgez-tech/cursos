@@ -106,4 +106,4 @@ SHA256("Hola blockchain") = "x9y8z7w6v5u4..." // Completamente diferente
 
 ---
 
-**Anterior**: [01. Introducción](./01-introduccion.md) | **Siguiente**: [03. Fundamentos de Solidity](./03-fundamentos-solidity.md) | **Inicio**: [README](../README.md)
+**Anterior**: [01. Introducción](./01-introduccion.md) | **Siguiente**: [03. Ethereum y Contratos Inteligentes](./03-ethereum-smart-contracts.md) | **Inicio**: [README](../README.md)

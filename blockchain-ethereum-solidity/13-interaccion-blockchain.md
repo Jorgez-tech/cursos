@@ -39,4 +39,4 @@ leerValor();
 
 ---
 
-**Anterior**: [08. Desarrollo y Pruebas de Smart Contracts](./08-desarrollo-pruebas-smart-contracts.md) | **Siguiente**: [10. Tokens y Estándares](./10-tokens-estandares.md)
+**Anterior**: [12. Integración y Seguridad Avanzada](./12-integracion.md) | **Siguiente**: [14. Tokens y Estándares ERC](./14-tokens-estandares.md) | **Inicio**: [README](../README.md)

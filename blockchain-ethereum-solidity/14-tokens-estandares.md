@@ -37,4 +37,4 @@ contract MiToken is ERC20 {
 
 ---
 
-**Anterior**: [09. Interacción con la Blockchain](./09-interaccion-blockchain.md) | **Siguiente**: [11. Descentralización y DApps](./11-descentralizacion-dapps.md)
+**Anterior**: [13. Interacción con Blockchain](./13-interaccion-blockchain.md) | **Siguiente**: [15. Descentralización y dApps](./15-descentralizacion-dapps.md) | **Inicio**: [README](../README.md)

@@ -44,4 +44,4 @@ contract GasOptimizado {
 
 ---
 
-**Anterior**: [11. Descentralización y DApps](./11-descentralizacion-dapps.md) | **Siguiente**: [13. Seguridad Avanzada en Smart Contracts](./13-seguridad-avanzada-smart-contracts.md)
+**Anterior**: [15. Descentralización y dApps](./15-descentralizacion-dapps.md) | **Siguiente**: [17. Seguridad Avanzada](./17-seguridad-avanzada-smart-contracts.md) | **Inicio**: [README](../README.md)

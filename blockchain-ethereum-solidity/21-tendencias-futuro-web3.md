@@ -44,4 +44,4 @@ contract SimpleDAO {
 
 ---
 
-**Anterior**: [14. Patrones y Arquitectura de Proyectos](./14-patrones-arquitectura-proyectos.md)
+**Anterior**: [20. Evaluación Final y Proyecto DAO](./20-evaluacion.md) | **Inicio**: [README](../README.md)

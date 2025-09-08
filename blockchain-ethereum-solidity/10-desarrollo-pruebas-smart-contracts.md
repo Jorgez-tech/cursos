@@ -39,4 +39,4 @@ describe("MiContrato", function () {
 
 ---
 
-**Anterior**: [07. Herramientas de Desarrollo](./07-herramientas-desarrollo.md) | **Siguiente**: [09. Interacción con la Blockchain](./09-interaccion-blockchain.md)
+**Anterior**: [09. Herramientas de Desarrollo](./09-herramientas-desarrollo.md) | **Siguiente**: [11. Seguridad Básica en Smart Contracts](./11-seguridad-basica-smart-contracts.md) | **Inicio**: [README](../README.md)
