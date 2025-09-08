@@ -1,4 +1,4 @@
-# 15. Tendencias y Futuro de Web3
+# 21. Tendencias y Futuro de Web3
 
 ## 🚀 Innovaciones y evolución en blockchain
 

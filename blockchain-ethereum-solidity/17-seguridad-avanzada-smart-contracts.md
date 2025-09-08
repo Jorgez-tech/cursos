@@ -1,4 +1,4 @@
-# 13. Seguridad Avanzada en Smart Contracts
+# 17. Seguridad Avanzada en Smart Contracts
 
 ## 🛡️ Amenazas avanzadas y mitigaciones
 

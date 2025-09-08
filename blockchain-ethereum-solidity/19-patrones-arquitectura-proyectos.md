@@ -1,4 +1,4 @@
-# 14. Patrones y Arquitectura de Proyectos Blockchain
+# 19. Patrones y Arquitectura de Proyectos Blockchain
 
 ## 🏗️ Patrones de diseño en smart contracts
 

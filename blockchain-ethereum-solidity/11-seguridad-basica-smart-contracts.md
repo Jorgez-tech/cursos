@@ -1,4 +1,4 @@
-# 06. Seguridad Básica en Smart Contracts
+# 11. Seguridad Básica en Smart Contracts
 
 ## 🔒 Principios de Seguridad en Solidity
 

@@ -1,4 +1,4 @@
-# 04. Práctica Guiada - Desarrollando Tu Primer dApp
+# 08. Práctica Guiada - Desarrollando Tu Primer dApp
 
 ## 🎯 Objetivo del Módulo
 

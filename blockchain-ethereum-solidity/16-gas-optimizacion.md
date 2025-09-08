@@ -1,4 +1,4 @@
-# 12. Gas y Optimización en Smart Contracts
+# 16. Gas y Optimización en Smart Contracts
 
 ## ⛽ ¿Qué es el gas?
 

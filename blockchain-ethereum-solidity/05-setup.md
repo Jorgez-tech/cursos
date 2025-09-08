@@ -1,4 +1,4 @@
-# 03. Setup y Configuración del Entorno de Desarrollo
+# 05. Setup y Configuración del Entorno de Desarrollo
 
 ## 🛠️ Herramientas Necesarias
 

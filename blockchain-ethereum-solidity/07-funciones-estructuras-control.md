@@ -1,4 +1,4 @@
-# 05. Funciones y Estructuras de Control en Solidity
+# 07. Funciones y Estructuras de Control en Solidity
 
 ## 🧩 Funciones en Solidity
 

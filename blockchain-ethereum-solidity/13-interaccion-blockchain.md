@@ -1,4 +1,4 @@
-# 09. Interacción con la Blockchain
+# 13. Interacción con la Blockchain
 
 ## 🔗 ¿Cómo interactúan los contratos con la blockchain?
 

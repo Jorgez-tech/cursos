@@ -1,4 +1,4 @@
-# 11. Descentralización y DApps
+# 15. Descentralización y DApps
 
 ## 🌐 ¿Qué es una DApp?
 

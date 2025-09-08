@@ -1,4 +1,4 @@
-# 08. Desarrollo y Pruebas de Smart Contracts
+# 10. Desarrollo y Pruebas de Smart Contracts
 
 ## 🧪 Ciclo de Desarrollo
 

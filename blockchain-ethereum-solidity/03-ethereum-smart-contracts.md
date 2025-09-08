@@ -1,4 +1,4 @@
-# 02. Ethereum y Contratos Inteligentes
+# 03. Ethereum y Contratos Inteligentes
 
 ## 🌟 Historia y Evolución de Ethereum
 

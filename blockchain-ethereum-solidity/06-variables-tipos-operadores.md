@@ -1,4 +1,4 @@
-# 04. Variables, Tipos y Operadores en Solidity
+# 06. Variables, Tipos y Operadores en Solidity
 
 ## 🌟 Tipos de Variables y Datos
 
