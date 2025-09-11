@@ -1,22 +1,22 @@
-# 01. Introducción a Git y GitHub
+# 01. IntroducciÃ³n a Git y GitHub
 
-## ?? ¿Qué es Git?
-Git es un sistema de control de versiones distribuido que permite gestionar el historial de cambios en proyectos de software. Fue creado por Linus Torvalds en 2005 y es la base de la colaboración moderna en desarrollo.
+## ?? Â¿QuÃ© es Git?
+Git es un sistema de control de versiones distribuido que permite gestionar el historial de cambios en proyectos de software. Fue creado por Linus Torvalds en 2005 y es la base de la colaboraciÃ³n moderna en desarrollo.
 
 ### Ventajas de Git
 - Permite trabajar en equipo sin sobrescribir el trabajo de otros
 - Guarda el historial completo de cambios
-- Facilita la recuperación de versiones anteriores
-- Es rápido, seguro y ampliamente adoptado
+- Facilita la recuperaciÃ³n de versiones anteriores
+- Es rÃ¡pido, seguro y ampliamente adoptado
 
-## ??? Instalación y Configuración
+## ??? InstalaciÃ³n y ConfiguraciÃ³n
 
-### Instalación de Git
+### InstalaciÃ³n de Git
 - **Windows**: `winget install --id Git.Git`
 - **macOS**: `brew install git`
 - **Linux**: `sudo apt-get install git`
 
-### Configuración inicial
+### ConfiguraciÃ³n inicial
 ```bash
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@email.com"
@@ -32,7 +32,7 @@ cd mi-proyecto
 git init
 ```
 
-### Flujo básico de trabajo
+### Flujo bÃ¡sico de trabajo
 ```bash
 touch README.md
 git add README.md
@@ -47,11 +47,11 @@ git log --oneline
 ## ?? Conceptos Clave
 - **Repositorio**: Carpeta gestionada por Git
 - **Commit**: Registro de cambios
-- **Branch (rama)**: Línea de desarrollo paralela
+- **Branch (rama)**: LÃ­nea de desarrollo paralela
 - **Merge**: Unir ramas
 - **Remote**: Repositorio alojado en la nube (GitHub)
 
-## ?? Ejercicio Práctico
+## ?? Ejercicio PrÃ¡ctico
 1. Instala Git y configura tu usuario
 2. Crea un repositorio local y haz tu primer commit
 3. Visualiza el historial con `git log`
