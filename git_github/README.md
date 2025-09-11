@@ -1,24 +1,24 @@
-# ?? Git y GitHub: Control de Versiones y Colaboraci髇 Profesional
+# ?? Git y GitHub: Control de Versiones y Colaboraci贸n Profesional
 
-## ?? Informaci髇 General
+## ?? Informaci贸n General
 
-**Duraci髇**: 6 semanas  
-**Modalidad**: Pr醕tica intensiva  
-**Nivel**: B醩ico a Intermedio  
-**Tecnolog韆s**: Git, GitHub, GitHub Actions
+**Duraci贸n**: 6 semanas  
+**Modalidad**: Pr谩ctica intensiva  
+**Nivel**: B谩sico a Intermedio  
+**Tecnolog铆as**: Git, GitHub, GitHub Actions
 
-> Un curso completo para dominar el control de versiones, la colaboraci髇 en proyectos y la automatizaci髇 con Git y GitHub.
+> Un curso completo para dominar el control de versiones, la colaboraci贸n en proyectos y la automatizaci贸n con Git y GitHub.
 
 ## ?? Objetivos del Curso
 
 ### Objetivo General
-Aprender a gestionar proyectos de software de forma profesional usando Git y GitHub, desde el control de versiones b醩ico hasta flujos colaborativos y automatizaci髇 DevOps.
+Aprender a gestionar proyectos de software de forma profesional usando Git y GitHub, desde el control de versiones b谩sico hasta flujos colaborativos y automatizaci贸n DevOps.
 
-### Objetivos Espec韋icos
+### Objetivos Espec铆ficos
 - Dominar los comandos esenciales de Git
 - Gestionar repositorios remotos y colaborativos en GitHub
-- Trabajar con ramas, merges y resoluci髇 de conflictos
-- Implementar buenas pr醕ticas de seguridad y mantenimiento
+- Trabajar con ramas, merges y resoluci贸n de conflictos
+- Implementar buenas pr谩cticas de seguridad y mantenimiento
 - Automatizar flujos de trabajo con GitHub Actions
 - Colaborar en proyectos open source y privados
 
@@ -27,58 +27,58 @@ Aprender a gestionar proyectos de software de forma profesional usando Git y Git
 ? Desarrolladores principiantes y junior  
 ? Programadores migrando a Git  
 ? Equipos de desarrollo colaborativo  
-? Estudiantes de ingenier韆 y carreras afines
+? Estudiantes de ingenier铆a y carreras afines
 
 ## ?? Estructura del Curso
 
-### [01. Introducci髇 a Git y GitHub](./01-introduccion.md)
+### [01. Introducci贸n a Git y GitHub](./01-introduccion.md)
 - Historia y conceptos clave
-- Instalaci髇 y configuraci髇
+- Instalaci贸n y configuraci贸n
 - Primer repositorio y commit
 
 ### [02. Repositorios Remotos y GitHub](./02-remotos.md)
 - Clonar, push, pull y fetch
-- Configuraci髇 de remotos
+- Configuraci贸n de remotos
 - Forks y upstream
 
 ### [03. Ramas y Flujos de Trabajo](./03-ramas.md)
-- Creaci髇 y gesti髇 de ramas
+- Creaci贸n y gesti贸n de ramas
 - Flujos colaborativos (Git Flow, GitHub Flow)
 - Pull requests y revisiones
 
-### [04. Resoluci髇 de Conflictos y Comandos Avanzados](./04-conflictos.md)
-- Identificaci髇 y resoluci髇 de conflictos
+### [04. Resoluci贸n de Conflictos y Comandos Avanzados](./04-conflictos.md)
+- Identificaci贸n y resoluci贸n de conflictos
 - Rebase, cherry-pick y revert
 - Estrategias de merge
 
-### [05. Seguridad y Buenas Pr醕ticas](./05-seguridad.md)
+### [05. Seguridad y Buenas Pr谩cticas](./05-seguridad.md)
 - Llaves SSH y credenciales
-- Protecci髇 de ramas
-- Gesti髇 de permisos y roles
+- Protecci贸n de ramas
+- Gesti贸n de permisos y roles
 
-### [06. Automatizaci髇 y DevOps con GitHub Actions](./06-automatizacion.md)
+### [06. Automatizaci贸n y DevOps con GitHub Actions](./06-automatizacion.md)
 - Workflows y pipelines CI/CD
-- Ejecuci髇 de pruebas autom醫icas
+- Ejecuci贸n de pruebas autom谩ticas
 - Despliegue continuo
 
-### [07. Colaboraci髇 Avanzada y Gesti髇 de Proyectos](./07-colaboracion.md)
+### [07. Colaboraci贸n Avanzada y Gesti贸n de Proyectos](./07-colaboracion.md)
 - Issues, proyectos y discusiones
-- Organizaci髇 de equipos
-- Gesti髇 de tareas y milestones
+- Organizaci贸n de equipos
+- Gesti贸n de tareas y milestones
 
-### [08. Mantenimiento, Auditor韆 y Eficiencia](./08-mantenimiento.md)
+### [08. Mantenimiento, Auditor铆a y Eficiencia](./08-mantenimiento.md)
 - Limpieza de repositorios
-- Auditor韆 de cambios
-- Optimizaci髇 y troubleshooting
+- Auditor铆a de cambios
+- Optimizaci贸n y troubleshooting
 
 ## ??? Herramientas y Recursos
 - **Git**: Control de versiones distribuido
-- **GitHub**: Plataforma de colaboraci髇 y hosting
-- **GitHub Desktop**: Cliente gr醘ico
+- **GitHub**: Plataforma de colaboraci贸n y hosting
+- **GitHub Desktop**: Cliente gr谩fico
 - **Visual Studio Code**: Editor recomendado
-- **GitHub Actions**: Automatizaci髇 de flujos
+- **GitHub Actions**: Automatizaci贸n de flujos
 
-## ?? Progresi髇 del Aprendizaje
+## ?? Progresi贸n del Aprendizaje
 
 ```mermaid
 graph TD
@@ -86,20 +86,20 @@ graph TD
     B --> C[Ramas y Flujos]
     C --> D[Conflictos y Avanzado]
     D --> E[Seguridad]
-    E --> F[Automatizaci髇]
-    F --> G[Colaboraci髇]
+    E --> F[Automatizaci贸n]
+    F --> G[Colaboraci贸n]
     G --> H[Mantenimiento]
 ```
 
-## ?? Configuraci髇 del Entorno
+## ?? Configuraci贸n del Entorno
 
-### Requisitos M韓imos
+### Requisitos M铆nimos
 - **SO**: Windows, macOS, Linux
 - **RAM**: 4GB
 - **Espacio**: 2GB disponibles
 - **Procesador**: Intel i3 o equivalente
 
-### Instalaci髇 R醦ida
+### Instalaci贸n R谩pida
 ```bash
 # Instalar Git
 # Windows
@@ -112,43 +112,43 @@ sudo apt-get install git
 # Instalar GitHub Desktop (opcional)
 winget install --id GitHub.GitHubDesktop
 
-# Verificar instalaci髇
+# Verificar instalaci贸n
 git --version
 ```
 
 ## ?? Recursos Adicionales
-- [Documentaci髇 Git](https://git-scm.com/doc)
+- [Documentaci贸n Git](https://git-scm.com/doc)
 - [GitHub Docs](https://docs.github.com/)
 - [Pro Git Book](https://git-scm.com/book/es/v2)
 - [GitHub Learning Lab](https://lab.github.com/)
 
-## ?? Certificaci髇 y Evaluaci髇
+## ?? Certificaci贸n y Evaluaci贸n
 
-### Sistema de Evaluaci髇
-- Ejercicios pr醕ticos: 40%
+### Sistema de Evaluaci贸n
+- Ejercicios pr谩cticos: 40%
 - Proyecto colaborativo: 40%
-- Participaci髇 y buenas pr醕ticas: 20%
+- Participaci贸n y buenas pr谩cticas: 20%
 
 ### Certificados Relacionados
 - GitHub Campus Expert
 - GitHub Actions Hero
 
 ## ????? Instructor y Soporte
-- Learning by doing: 70% pr醕tica, 30% teor韆
-- Code reviews y mentor韆
+- Learning by doing: 70% pr谩ctica, 30% teor铆a
+- Code reviews y mentor铆a
 - Comunidad Discord y repositorio GitHub
 
 ---
 
-## ?? omienza tu Journey!
+## ?? 隆Comienza tu Journey!
 
-縇isto para dominar Git y GitHub?
+驴Listo para dominar Git y GitHub?
 
-?? [Empezar con M骴ulo 1: Introducci髇](./01-introduccion.md)
+?? [Empezar con M贸dulo 1: Introducci贸n](./01-introduccion.md)
 
 ---
 
 *"El mejor momento para aprender Git fue ayer. El segundo mejor momento es ahora."*
 
-?? **Contacto**: Para dudas espec韋icas del curso  
+?? **Contacto**: Para dudas espec铆ficas del curso  
 ?? **Recursos**: [Repositorio del curso](.)
