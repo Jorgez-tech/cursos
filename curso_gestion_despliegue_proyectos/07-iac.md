@@ -1,4 +1,4 @@
-# 08. Infraestructura como Código (IaC)
+# 07. Infraestructura como Código (IaC)
 
 ## 🏗️ ¿Qué es Infraestructura como Código?
 
@@ -265,4 +265,4 @@ resource "aws_s3_bucket_public_access_block" "secure_bucket" {
 
 ---
 
-**Anterior**: [07. Contenedores](./07-contenedores.md) | **Siguiente**: [09. Cloud](./09-cloud.md) | **Inicio**: [README](../README.md)
+**Anterior**: [06. Contenedores](./06-contenedores.md) | **Siguiente**: [08. Cloud](./08-cloud.md) | **Inicio**: [README](../README.md)

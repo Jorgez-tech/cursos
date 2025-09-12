@@ -1,4 +1,4 @@
-# 10. Seguridad en el Ciclo de Vida del Software
+# 09. Seguridad en el Ciclo de Vida del Software
 
 ## 🛡️ Introducción a DevSecOps
 
@@ -699,4 +699,4 @@ class SecurityIncident:
 
 ---
 
-**Anterior**: [09. Cloud](./09-cloud.md) | **Inicio**: [README](../README.md)
+**Anterior**: [08. Cloud](./08-cloud.md) | **Inicio**: [README](../README.md)

@@ -1,4 +1,4 @@
-# 09. Cloud y Opciones de Hosting
+# 08. Cloud y Opciones de Hosting
 
 ## ☁️ Introducción al Cloud Computing
 
@@ -541,4 +541,4 @@ Resources:
 
 ---
 
-**Anterior**: [08. IaC](./08-iac.md) | **Siguiente**: [10. Seguridad](./10-seguridad.md) | **Inicio**: [README](../README.md)
+**Anterior**: [07. IaC](./07-iac.md) | **Siguiente**: [09. Seguridad](./09-seguridad.md) | **Inicio**: [README](../README.md)

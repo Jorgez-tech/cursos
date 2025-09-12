@@ -1,4 +1,4 @@
-# 06. CI/CD Moderno: Integración y Despliegue Continuo
+# 05. CI/CD Moderno: Integración y Despliegue Continuo
 
 ## ⚡ Introducción a CI/CD
 
@@ -482,4 +482,4 @@ if (featureFlag.isEnabled('NEW_CHECKOUT')) {
 
 ---
 
-**Siguiente**: [07. Contenedores: Docker y Kubernetes](./07-contenedores.md)
+**Siguiente**: [06. Contenedores: Docker y Kubernetes](./06-contenedores.md)
