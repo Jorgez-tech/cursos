@@ -4,7 +4,7 @@ Este curso está diseñado para enseñarte las mejores prácticas y estrategias 
 
 ---
 
-# 01. Introducción al Testing Profesional
+## 01. Introducción al Testing Profesional
 
 ## 🎯 Contexto y motivación
 
@@ -18,14 +18,17 @@ En el desarrollo de software moderno, el testing no es opcional: es una necesida
 ## 📊 Casos de uso reales
 
 ### Caso 1: E-commerce con alta concurrencia
+
 **Problemática**: Una plataforma de e-commerce experimenta errores en el checkout durante Black Friday.
 **Solución**: Testing de carga automatizado que simula 10,000 usuarios concurrentes.
 
 ### Caso 2: API crítica de pagos
+
 **Problemática**: Fallas silenciosas en integración con proveedores de pago.
 **Solución**: Testing de contratos y monitoring continuo de endpoints críticos.
 
 ### Caso 3: Aplicación móvil multiplataforma
+
 **Problemática**: Diferentes comportamientos entre iOS y Android.
 **Solución**: Testing automatizado cross-platform con device farms.
 
@@ -40,14 +43,16 @@ En el desarrollo de software moderno, el testing no es opcional: es una necesida
 ## 🎯 Objetivos de aprendizaje
 
 Al finalizar este módulo, serás capaz de:
+
 - [ ] Identificar los tipos de testing más apropiados para tu contexto
+- [ ] Justificar la inversión en testing automatizado
 - [ ] Justificar la inversión en testing automatizado
 - [ ] Reconocer anti-patterns comunes en testing
 - [ ] Establecer métricas de calidad medibles
 
 ## 🔄 Evolución del testing
 
-```
+''''
 Testing Manual (2000s)
      ↓
 Testing Automatizado Básico (2010s)
@@ -57,7 +62,7 @@ Testing como Código (2015+)
 Testing Shift-Left (2020+)
      ↓
 Testing Inteligente con AI (2025+)
-```
+''''
 
 ## 📈 ROI del testing automatizado
 
