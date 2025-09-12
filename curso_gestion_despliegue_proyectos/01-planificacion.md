@@ -5,6 +5,7 @@
 La planificación es el primer paso crítico en la gestión de proyectos de software. Permite definir objetivos, alcance, recursos, cronograma y riesgos, asegurando que el proyecto tenga una base sólida para el éxito.
 
 ### Historia y evolución
+
 - **Década de 1960-80**: Modelos en cascada y metodologías tradicionales.
 - **1990s**: Enfoque en gestión de riesgos y calidad.
 - **2000s**: Metodologías ágiles y adaptativas.
