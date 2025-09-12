@@ -1,4 +1,4 @@
-# 05. Dependencias y Entornos de Desarrollo
+# 04. Dependencias y Entornos de Desarrollo
 
 ## 🧩 Gestión de Dependencias
 
@@ -43,4 +43,4 @@ pip install flask sqlalchemy
 
 ---
 
-**Siguiente**: [06. CI/CD y Automatización](./06-cicd.md)
+**Siguiente**: [05. CI/CD y Automatización](./05-cicd.md)

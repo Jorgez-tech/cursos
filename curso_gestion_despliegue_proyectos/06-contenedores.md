@@ -1,4 +1,4 @@
-# 07. Contenedores: Docker y Kubernetes
+# 06. Contenedores: Docker y Kubernetes
 
 ## 🐳 Introducción a Contenedores
 
@@ -411,4 +411,4 @@ spec:
 
 ---
 
-**Siguiente**: [08. Infraestructura como Código (IaC)](./08-iac.md)
+**Siguiente**: [07. Infraestructura como Código (IaC)](./07-iac.md)

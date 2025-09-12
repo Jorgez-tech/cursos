@@ -1,4 +1,4 @@
-# 04. Documentación de Proyectos
+# 03. Documentación de Proyectos
 
 ## 📚 Importancia de la Documentación
 
@@ -49,4 +49,4 @@ Endpoints principales y ejemplos de uso.
 
 ---
 
-**Siguiente**: [05. Dependencias y Entornos](./05-dependencias-entornos.md)
+**Siguiente**: [04. Dependencias y Entornos](./04-dependencias-entornos.md)
